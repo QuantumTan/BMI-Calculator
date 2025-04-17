@@ -1,4 +1,4 @@
-# quicklist
+# BMI Calculartor
 
 A new Flutter project.
 
